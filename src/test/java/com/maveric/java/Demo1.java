@@ -1,7 +1,7 @@
 package com.maveric.java;
 
 import java.util.ArrayList;
-
+//example arraylist
 public class Demo1 {
 
 	public static void main(String[] args) {
